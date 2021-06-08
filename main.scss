@@ -1,5 +1,8 @@
+// variables
 $textAlgn : center;
 $height : 25rem;
+// cards
+
 div:nth-child(1) {
     text-align: $textAlgn;
     background-color: red;
@@ -33,7 +36,6 @@ div:nth-child(2){
     text-align: $textAlgn;
       background-color: brown;
       height: $height;
-     
   }
   div:nth-child(9) {
     text-align: $textAlgn;
